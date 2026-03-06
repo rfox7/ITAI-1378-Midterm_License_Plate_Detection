@@ -8,7 +8,7 @@
 
 # Project Tier and Justification
 
-**Project Tier:** Tier 1 
+**Project Tier:**  
 Tier 1 project was selected because I am running solo and wanted something I felt I could accomplish. 
 
 **Justification:**  
@@ -129,7 +129,8 @@ The **anchor-free design** allows for more flexible bounding box predictions at 
 
 ## AI Usage Log
 **March 2026:**  
-Used AI for drafting the initial technical justification and refining the Markdown structure.
+- Used AI for drafting the initial technical justification. Imported into NotebookLM to add visuals and make it look allot better. 
+- Refining the Markdown structure to standardize and make it look prettier. 
 
 ---
 
