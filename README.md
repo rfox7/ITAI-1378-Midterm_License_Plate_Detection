@@ -110,12 +110,12 @@ class x_center y_center width height
 
 | Week    | Date   | Task                                    | Milestone        |
 | ------- | ------ | --------------------------------------- | ---------------- |
-| Week 10 | Oct 30 | Dataset acquisition + environment setup | Dataset Ready    |
-| Week 11 | Nov 6  | YOLOv8 training + OCR integration       | Model Working    |
-| Week 12 | Nov 13 | Testing + hyperparameter tuning         | High Accuracy    |
-| Week 13 | Nov 20 | Video pipeline + optimization           | Demo Ready       |
-| Week 14 | Nov 27 | Documentation + final testing           | Project Complete |
-| Week 15 | Dec 4  | Final presentation                      | Delivered        |
+| Week 10 | March 20 | Dataset acquisition + environment setup | Dataset Ready    |
+| Week 11 | March 27  | YOLOv8 training + OCR integration       | Model Working    |
+| Week 12 | April 3 | Testing + hyperparameter tuning         | High Accuracy    |
+| Week 13 | April 10 | Video pipeline + optimization           | Demo Ready       |
+| Week 14 | April 17 | Documentation + final testing           | Project Complete |
+| Week 15 | April 24 | Final presentation                      | Delivered        |
 
 ---
 
@@ -124,8 +124,8 @@ class x_center y_center width height
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/license-plate-detection-yolov8.git
-cd license-plate-detection-yolov8
+git clone https://github.com/rfox7/License-Plate-Detection-With-YOLO.git
+cd rfox7/License-Plate-Detection-With-YOLO
 ```
 
 Install dependencies:
